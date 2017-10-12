@@ -1,9 +1,9 @@
 {
-    "title": "Shogun 2 Total War Online Battle # 3 (1v1) - War Drums!!",
+    "title": "1",
     "description": "Follow me on twitter: https:\/\/twitter.com\/pixelatedapollo\n\nA shogun 2 Battle  (1v1) \nenjoy and thanks for watching",
     "referenceId": "2IjwcyP7LIE",
     "date_created": "1376024778",
-    "date_modified": "1507772070",
+    "date_modified": "1507851160",
     "tags": "",
     "sourceId": "4",
     "status": "approved",
@@ -17,13 +17,13 @@
     "entityType": "1",
     "sortOrder": "0",
     "entityIdParent": "117407923",
-    "titleTextEncoded": "Shogun-2-Total-War-Online-Battle-3-1v1-War-Drums",
+    "titleTextEncoded": "1",
     "category": "",
     "tvp_profiles": [
         "32"
     ],
     "tvp_profiles_manual": "",
-    "tvp_profiles_maxscore": 457.5863,
+    "tvp_profiles_maxscore": 422.10193,
     "VIDEO_LENGTH": "LONG",
     "duration": 401,
     "settings": "",
@@ -37,7 +37,9 @@
         "author": "Pixelated Apollo",
         "mediaDuration": 401,
         "prettyDuration": "00:06:41",
-        "views": "1701"
+        "views": "1701",
+        "uploadAsset": false,
+        "quality": ""
     },
     "transcripts": "",
     "metrics_statistics": ""

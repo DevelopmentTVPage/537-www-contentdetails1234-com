@@ -1,9 +1,9 @@
 {
-    "title": "M2TW: Clash of the Kings Tournament! #7 - Preliminaries",
+    "title": "4",
     "description": "Clash of the Kings Tournament!\n(Hosted by PixelatedApollo and TheRyanKing )\n\nThis is the quarterfinals, Game 1 between Captain Invisible  and JustmeintheRoom.\n\nRules:\nMax: 6\/2 cav\nNo Ele\nNo art\nNo guns\n\nMap:Grassy Plains \nMoney: 15k\n\nTheRyanKing's Channel: http:\/\/www.youtube.com\/channel\/UCBIedTsnq6dWn8AAw1X3axw",
     "referenceId": "6XDaddLbCyE",
     "date_created": "1392753513",
-    "date_modified": "1507772070",
+    "date_modified": "1507851146",
     "tags": "",
     "sourceId": "4",
     "status": "approved",
@@ -17,14 +17,14 @@
     "entityType": "1",
     "sortOrder": "5",
     "entityIdParent": "117407923",
-    "titleTextEncoded": "M2TW-Clash-of-the-Kings-Tournament-7-Preliminaries",
+    "titleTextEncoded": "4",
     "category": "",
     "tvp_profiles": [
-        "32",
-        "18"
+        "18",
+        "25"
     ],
     "tvp_profiles_manual": "",
-    "tvp_profiles_maxscore": 2401.972,
+    "tvp_profiles_maxscore": 261.5779,
     "VIDEO_LENGTH": "LONG",
     "duration": 1133,
     "settings": "",
@@ -38,7 +38,9 @@
         "author": "Pixelated Apollo",
         "mediaDuration": 1133,
         "prettyDuration": "00:18:53",
-        "views": "708"
+        "views": "708",
+        "uploadAsset": false,
+        "quality": ""
     },
     "transcripts": "",
     "metrics_statistics": ""
