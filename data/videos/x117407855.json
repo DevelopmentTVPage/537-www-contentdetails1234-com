@@ -1,9 +1,9 @@
 {
-    "title": "Rome 2 Total War Online Battle #1 (1v1)All Dem Men!",
+    "title": "2",
     "description": "Follow me on twitter: https:\/\/twitter.com\/pixelatedapollo\nFirst Battle on Rome 2",
     "referenceId": "8WntqarnpJI",
     "date_created": "1386801352",
-    "date_modified": "1507772070",
+    "date_modified": "1507851155",
     "tags": "",
     "sourceId": "4",
     "status": "approved",
@@ -17,13 +17,13 @@
     "entityType": "1",
     "sortOrder": "2",
     "entityIdParent": "117407923",
-    "titleTextEncoded": "Rome-2-Total-War-Online-Battle-1-1v1-All-Dem-Men",
+    "titleTextEncoded": "2",
     "category": "",
     "tvp_profiles": [
         "32"
     ],
     "tvp_profiles_manual": "",
-    "tvp_profiles_maxscore": 369.9555,
+    "tvp_profiles_maxscore": 332.3892,
     "VIDEO_LENGTH": "LONG",
     "duration": 785,
     "settings": "",
@@ -37,7 +37,9 @@
         "author": "Pixelated Apollo",
         "mediaDuration": 785,
         "prettyDuration": "00:13:05",
-        "views": "13853"
+        "views": "13853",
+        "uploadAsset": false,
+        "quality": ""
     },
     "transcripts": "",
     "metrics_statistics": ""
